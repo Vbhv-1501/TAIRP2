@@ -1,2 +1,2 @@
 # TAIRP2
-To-Do App
+This is a To-Do app project made with the help of html, css and javascript
